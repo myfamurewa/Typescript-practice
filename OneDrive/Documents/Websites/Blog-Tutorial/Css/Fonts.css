@@ -1,0 +1,30 @@
+/* font-family:Domine */
+@font-face {
+    font-family:Domine;
+    src:url('../Fonts/Domine/Domine-Regular.ttf');
+
+}
+/* font-family: Karla */
+@font-face {
+    font-family:Karla;
+    src:url('../Fonts/Karla/Karla-Regular.ttf');
+
+}
+/* font-family: Nunito */
+@font-face {
+    font-family:Nunito;
+    src:url('../Fonts/Nunito/Nunito-Regular.ttf');
+
+}
+/* font-family: Roboto */
+@font-face {
+    font-family:Roboto;
+    src:url('../Fonts/Roboto/Roboto-Regular.ttf');
+
+}
+/* font-family: Rubik */
+@font-face {
+    font-family:Rubik;
+    src:url('../Fonts/Rubik/Rubik-Regular.ttf');
+
+}
